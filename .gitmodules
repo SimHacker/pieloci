@@ -1,0 +1,4 @@
+[submodule "jquery-pie"]
+	path = jquery-pie
+	url = https://github.com/SimHacker/jquery-pie.git
+	branch = master
